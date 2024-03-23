@@ -1,4 +1,4 @@
-# Face Detection and Recognition using OpenCV and Haar Cascade Classifier - Blog Link[https://www.samyakinfo.tech/blog/face-recognition-system-using-computer-vision]
+# Face Detection and Recognition using OpenCV and Haar Cascade Classifier - [Read Blog here][https://www.samyakinfo.tech/blog/face-recognition-system-using-computer-vision]
 
 This project demonstrates face detection and recognition using OpenCV, a popular computer vision library. It allows you to collect face samples, train a face recognition model, and recognize faces in real-time using a webcam.
 
